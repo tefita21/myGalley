@@ -1,0 +1,26 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: #000;  
+  color: #fff;   
+}
+
+
+
+
+footer{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    width: 100%;
+    display: flex;   
+    justify-content: center;
+    align-items: flex-end;
+    height: 5rem;
+    color: grey;  
+    margin-top: 15%;   
+}
